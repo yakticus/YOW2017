@@ -19,6 +19,15 @@ Supporting material for my talk, Machines that learn through action, from YOW! 2
 * [Yann LeCun & Gary Marcus debate innate machinery for AI (video)](https://www.youtube.com/watch?v=vdWPQ6iAkT4)
 * [Berkeley AI Research Lab (BAIR) blog](http://bair.berkeley.edu/blog)
 
+## Recommended background on Free Energy Principle & Active Inference
+
+Also referenced below.
+
+[The free-energy principle: a unified brain theory? (pdf)](http://bdl.kaist.ac.kr/lecture/2011springbis525/10%20(2010)%20The%20free-energy%20principle-%20a%20unified%20brain%20theory.pdf)
+
+[Active Inference and Learning](http://www.sciencedirect.com/science/article/pii/S0149763416301336)
+
+[The Predictive Mind (book)](https://www.amazon.com/Predictive-Mind-Jakob-Hohwy/dp/0199686734/)
 
 ## Academic papers
 
