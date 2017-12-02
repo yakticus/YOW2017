@@ -29,6 +29,11 @@ Also referenced below.
 
 [The Predictive Mind (book)](https://www.amazon.com/Predictive-Mind-Jakob-Hohwy/dp/0199686734/)
 
+## Training environments
+
+* [Embodied Q&A](http://embodiedqa.org/)
+* [HoME](https://home-platform.github.io/)
+
 ## Academic papers
 
 Bansal, Trapit, et al. "Emergent complexity via multi-agent competition." arXiv preprint arXiv:1710.03748 (2017).
