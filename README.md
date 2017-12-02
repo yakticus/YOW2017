@@ -31,12 +31,16 @@ Also referenced below.
 
 ## Training environments
 
-* [Embodied Q&A](http://embodiedqa.org/)
+* [Embodied question answering](http://embodiedqa.org/)
 * [HoME](https://home-platform.github.io/)
 
 ## Academic papers
 
 Bansal, Trapit, et al. "Emergent complexity via multi-agent competition." arXiv preprint arXiv:1710.03748 (2017).
+
+Brodeur, Simon, et al. "HoME: a Household Multimodal Environment." arXiv preprint arXiv:1711.11017 (2017).
+
+Das, Abishek, et al. "Embodied Question Answering." arXiv preprint arXiv:1711.11543 (2017).
 
 Finn, Chelsea, Sergey Levine, and Pieter Abbeel. "Guided cost learning: Deep inverse optimal control via policy optimization." International Conference on Machine Learning. 2016.
 
