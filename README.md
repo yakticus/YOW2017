@@ -14,9 +14,11 @@ Supporting material for my talk, Machines that learn through action, from YOW! 2
 ### Articles & Videos
 
 * [Karl Friston explains the Free-energy principle (video)](https://www.youtube.com/watch?v=NIu_dJGyIQI)
+* [Consciousness is not a thing, but a process (article)](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference)
 * [Software 2.0 (blog post)](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Geoff Hinton and backpropagation (article)](https://www.axios.com/ai-pioneer-advocates-starting-over-2485537027.html)
 * [Yann LeCun & Gary Marcus debate innate machinery for AI (video)](https://www.youtube.com/watch?v=vdWPQ6iAkT4)
+* [The impossibility of intelligence explosion (article)](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec)
 * [Berkeley AI Research Lab (BAIR) blog](http://bair.berkeley.edu/blog)
 
 ## Recommended background on Free Energy Principle & Active Inference
